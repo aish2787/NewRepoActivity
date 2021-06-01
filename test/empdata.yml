@@ -1,0 +1,27 @@
+
+---
+ org:MyOrg
+ orgAddress:Bangalore
+ empCount:50
+ employees:
+   - Emp1
+      empID:111
+      empName:"abc"
+      doj:2010-11-01
+   - Emp2
+      empID:222
+      empName:"def"
+      doj:2001-11-01
+   - Emp3
+      empID:333
+      empName:"dhf"
+      doj:2012-11-01
+   - Emp4
+      empID:444
+      empName:"gjhk"
+      doj:2020-11-01
+   - Emp5
+      empID:555
+      empName:"ask"
+      doj:2013-11-01
+...
